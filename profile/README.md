@@ -5,7 +5,9 @@
   * Our WIP, [LWJGL3](https://github.com/LWJGL/lwjgl3) game engine. Private until we finish.     
 * [JavaWindowManager](https://github.com/strubium/JavaWindowManager)
   * The GLFW + Imgui library for RainEngine   
-
+* Forced Circuit
+  * A project for the Pursuing Pixels game jam #4
+ 
 ## The Team
 * notdeadpool456
 * strubium
